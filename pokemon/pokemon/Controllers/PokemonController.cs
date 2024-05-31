@@ -68,4 +68,3 @@ namespace pokemon.Controllers
         }
     }
 }
-pokeapi.co;
