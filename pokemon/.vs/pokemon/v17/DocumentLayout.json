@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\KAYE GAT\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\pokemon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71EFB35B-291C-4D39-9917-746A212585DE}|pokemon\\pokemon.csproj|c:\\users\\kaye gat\\desktop\\prefinal_assignment_two_pokemon_gatmaitan_kayedarleene_bsit_32e1\\pokemon\\pokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EFB35B-291C-4D39-9917-746A212585DE}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71EFB35B-291C-4D39-9917-746A212585DE}|pokemon\\pokemon.csproj|c:\\users\\kaye gat\\desktop\\prefinal_assignment_two_pokemon_gatmaitan_kayedarleene_bsit_32e1\\pokemon\\pokemon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71EFB35B-291C-4D39-9917-746A212585DE}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71EFB35B-291C-4D39-9917-746A212585DE}|pokemon\\pokemon.csproj|c:\\users\\kaye gat\\desktop\\prefinal_assignment_two_pokemon_gatmaitan_kayedarleene_bsit_32e1\\pokemon\\pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{71EFB35B-291C-4D39-9917-746A212585DE}|pokemon\\pokemon.csproj|c:\\users\\kaye gat\\desktop\\prefinal_assignment_two_pokemon_gatmaitan_kayedarleene_bsit_32e1\\pokemon\\pokemon\\views\\pokemon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71EFB35B-291C-4D39-9917-746A212585DE}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\views\\pokemon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EFB35B-291C-4D39-9917-746A212585DE}|pokemon\\pokemon.csproj|c:\\users\\kaye gat\\desktop\\prefinal_assignment_two_pokemon_gatmaitan_kayedarleene_bsit_32e1\\pokemon\\pokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EFB35B-291C-4D39-9917-746A212585DE}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\KAYE GAT\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\pokemon\\pokemon\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "pokemon\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\KAYE GAT\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\pokemon\\pokemon\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "pokemon\\wwwroot\\css\\site.css*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-31T15:43:21.569Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -40,7 +49,7 @@
               "RelativeDocumentMoniker": "pokemon\\Program.cs",
               "ToolTip": "C:\\Users\\KAYE GAT\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\pokemon\\pokemon\\Program.cs",
               "RelativeToolTip": "pokemon\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T15:32:19.753Z",
               "EditorCaption": ""
@@ -68,31 +77,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-31T15:28:21.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pokemon.cs",
-              "DocumentMoniker": "C:\\Users\\KAYE GAT\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\pokemon\\pokemon\\Models\\Pokemon.cs",
-              "RelativeDocumentMoniker": "pokemon\\Models\\Pokemon.cs",
-              "ToolTip": "C:\\Users\\KAYE GAT\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\pokemon\\pokemon\\Models\\Pokemon.cs",
-              "RelativeToolTip": "pokemon\\Models\\Pokemon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T15:24:59.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PokemonController.cs",
-              "DocumentMoniker": "C:\\Users\\KAYE GAT\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\pokemon\\pokemon\\Controllers\\PokemonController.cs",
-              "RelativeDocumentMoniker": "pokemon\\Controllers\\PokemonController.cs",
-              "ToolTip": "C:\\Users\\KAYE GAT\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_GATMAITAN_KAYEDARLEENE_BSIT_32E1\\pokemon\\pokemon\\Controllers\\PokemonController.cs*",
-              "RelativeToolTip": "pokemon\\Controllers\\PokemonController.cs*",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T15:00:37.279Z",
-              "EditorCaption": ""
             }
           ]
         }
